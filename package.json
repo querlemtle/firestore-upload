@@ -1,0 +1,12 @@
+{
+  "name": "firestore-upload",
+  "version": "0.0.1",
+  "description": "A script for uploading multiple json files to firestore db",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "firebase-admin": "^12.3.1"
+  }
+}
